@@ -1,1 +1,4 @@
 project_id = "iumjmbbocxecpykxysuy"
+
+[functions.create-subdomain]
+verify_jwt = false
