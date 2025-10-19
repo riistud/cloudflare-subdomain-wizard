@@ -7,8 +7,8 @@ const corsHeaders = {
 
 // Domain to Zone ID mapping
 const ZONE_MAP: Record<string, string> = {
-  "riicode.my.id": "YOUR_ZONE_ID_1", // User needs to replace with actual Zone ID
-  "riistore-vvip.my.id": "YOUR_ZONE_ID_2", // User needs to replace with actual Zone ID
+  "riicode.my.id": "efd675db96cf23e8bdad098a644036fd", // User needs to replace with actual Zone ID
+  "riistore-vvip.my.id": "8f1df1a638ec92208b0b5b453159eec6", // User needs to replace with actual Zone ID
 };
 
 interface DnsRecordRequest {
